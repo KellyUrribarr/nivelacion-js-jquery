@@ -42,4 +42,11 @@ function renderActivity(recipe) {
 	
 }
 
+//------------------------
+$(document).ready(function(){ 
+ 
+    $('.js-back').toggle( 
+    );
+ 
+});
 
