@@ -42,7 +42,7 @@ function renderActivity(recipe) {
 	
 }
 
-//------------------------
+//------------------------FUNCION OCULTAR FLECHA
 $(document).ready(function(){ 
  
     $('.js-back').toggle( 

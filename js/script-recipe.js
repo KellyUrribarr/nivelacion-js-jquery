@@ -1,3 +1,4 @@
+//------------------------ FUNCION OCULTAR MENU
 
 $(document).ready(function(){ 
  
