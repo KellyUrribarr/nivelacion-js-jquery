@@ -44,9 +44,18 @@ function renderActivity(recipe) {
 
 //------------------------FUNCION OCULTAR FLECHA
 $(document).ready(function(){ 
- 
-    $('.js-back').toggle( 
-    );
- 
+
+	$('.js-back').toggle( 
+		);
+
 });
+
+//------------------------ FUNCION AGREGAR NUEVAS RECETAS
+
+$(function printNews (){
+	$("p").addClass('texto-agregado');
+	$("<span>NUEVAS RECETAS</span>").appendTo('.texto-agregado');
+});
+
+
 
